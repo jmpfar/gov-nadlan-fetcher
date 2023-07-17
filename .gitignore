@@ -1,2 +1,6 @@
 /.DS_Store
 /.venv
+
+*.csv
+*.txt
+*.log
