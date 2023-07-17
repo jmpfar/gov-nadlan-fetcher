@@ -1,0 +1,112 @@
+2023-07-16 14:26:22,628 [INFO] Starting fetch
+2023-07-16 14:26:22,628 [INFO] Starting iteration page_num=0
+2023-07-16 14:26:27,631 [INFO] Starting iteration page_num=1
+2023-07-16 14:26:29,382 [INFO] Starting iteration page_num=2
+2023-07-16 14:26:31,089 [INFO] Starting iteration page_num=3
+2023-07-16 14:26:32,757 [INFO] Starting iteration page_num=4
+2023-07-16 14:26:34,289 [INFO] Starting iteration page_num=5
+2023-07-16 14:26:35,970 [INFO] Starting iteration page_num=6
+2023-07-16 14:26:37,674 [INFO] Starting iteration page_num=7
+2023-07-16 14:26:39,360 [INFO] Starting iteration page_num=8
+2023-07-16 14:26:40,993 [INFO] Starting iteration page_num=9
+2023-07-16 14:26:42,679 [INFO] Starting iteration page_num=10
+2023-07-16 14:27:51,441 [INFO] Starting iteration page_num=11
+2023-07-16 14:27:53,558 [INFO] Starting iteration page_num=12
+2023-07-16 14:27:55,194 [INFO] Starting iteration page_num=13
+2023-07-16 14:27:56,778 [INFO] Starting iteration page_num=14
+2023-07-16 14:27:58,342 [INFO] Starting iteration page_num=15
+2023-07-16 14:28:00,259 [INFO] Starting iteration page_num=16
+2023-07-16 14:28:01,876 [INFO] Starting iteration page_num=17
+2023-07-16 14:28:03,682 [INFO] Starting iteration page_num=18
+2023-07-16 14:28:05,386 [INFO] Starting iteration page_num=19
+2023-07-16 14:28:06,966 [INFO] Starting iteration page_num=20
+2023-07-16 14:28:08,616 [INFO] Starting iteration page_num=21
+2023-07-16 14:28:10,256 [INFO] Starting iteration page_num=22
+2023-07-16 14:28:11,837 [INFO] Starting iteration page_num=23
+2023-07-16 14:28:13,533 [INFO] Starting iteration page_num=24
+2023-07-16 14:28:15,267 [INFO] Starting iteration page_num=25
+2023-07-16 14:28:55,658 [INFO] Starting iteration page_num=26
+2023-07-16 14:29:00,158 [INFO] Starting iteration page_num=27
+2023-07-16 14:29:03,681 [INFO] Starting iteration page_num=28
+2023-07-16 14:29:06,093 [INFO] Starting iteration page_num=29
+2023-07-16 14:29:08,139 [INFO] Starting iteration page_num=30
+2023-07-16 14:29:10,639 [INFO] Starting iteration page_num=31
+2023-07-16 14:29:15,937 [INFO] Starting iteration page_num=32
+2023-07-16 14:29:18,922 [INFO] Starting iteration page_num=33
+2023-07-16 14:29:20,666 [INFO] Starting iteration page_num=34
+2023-07-16 14:29:22,617 [INFO] Starting iteration page_num=35
+2023-07-16 14:29:24,922 [INFO] Starting iteration page_num=36
+2023-07-16 14:29:29,566 [INFO] Starting iteration page_num=37
+2023-07-16 14:29:31,295 [INFO] Starting iteration page_num=38
+2023-07-16 14:29:34,428 [INFO] Starting iteration page_num=39
+2023-07-16 14:29:36,404 [INFO] Starting iteration page_num=40
+2023-07-16 14:29:38,052 [INFO] Starting iteration page_num=41
+2023-07-16 14:29:42,558 [INFO] Starting iteration page_num=42
+2023-07-16 14:29:44,367 [INFO] Starting iteration page_num=43
+2023-07-16 14:29:48,697 [INFO] Starting iteration page_num=44
+2023-07-16 14:29:50,341 [INFO] Starting iteration page_num=45
+2023-07-16 14:29:53,117 [INFO] Starting iteration page_num=46
+2023-07-16 14:29:54,858 [INFO] Starting iteration page_num=47
+2023-07-16 14:29:56,532 [INFO] Starting iteration page_num=48
+2023-07-16 14:29:58,225 [INFO] Starting iteration page_num=49
+2023-07-16 14:29:59,801 [INFO] Starting iteration page_num=50
+2023-07-16 14:30:02,107 [INFO] Starting iteration page_num=51
+2023-07-16 14:30:04,422 [INFO] Starting iteration page_num=52
+2023-07-16 14:30:41,027 [INFO] Starting iteration page_num=53
+2023-07-16 14:30:43,241 [INFO] Starting iteration page_num=54
+2023-07-16 14:30:44,850 [INFO] Starting iteration page_num=55
+2023-07-16 14:30:46,399 [INFO] Starting iteration page_num=56
+2023-07-16 14:30:48,436 [INFO] Starting iteration page_num=57
+2023-07-16 14:30:50,094 [INFO] Starting iteration page_num=58
+2023-07-16 14:30:51,742 [INFO] Starting iteration page_num=59
+2023-07-16 14:30:53,436 [INFO] Starting iteration page_num=60
+2023-07-16 14:39:16,055 [INFO] Starting fetch
+2023-07-16 14:39:16,055 [INFO] Starting iteration page_num=0 max_pages=10 last_page=False
+2023-07-16 14:39:20,250 [INFO] Starting iteration page_num=1 max_pages=10 last_page=False
+2023-07-16 14:39:57,845 [INFO] Starting iteration page_num=2 max_pages=10 last_page=False
+2023-07-16 14:58:42,365 [INFO] Starting fetch
+2023-07-16 14:58:42,365 [INFO] Starting iteration page_num=0 max_pages=10 last_page=False
+2023-07-16 14:58:45,688 [INFO] Starting iteration page_num=1 max_pages=10 last_page=False
+2023-07-16 14:58:47,838 [INFO] Starting iteration page_num=2 max_pages=10 last_page=False
+2023-07-16 14:58:51,161 [INFO] Starting iteration page_num=3 max_pages=10 last_page=False
+2023-07-16 14:58:56,605 [INFO] Starting iteration page_num=4 max_pages=10 last_page=False
+2023-07-16 14:59:00,667 [INFO] Starting iteration page_num=5 max_pages=10 last_page=False
+2023-07-16 15:13:02,880 [INFO] Starting fetch
+2023-07-16 15:13:02,880 [INFO] Starting iteration page_num=0 max_pages=10 last_page=False
+2023-07-16 15:13:05,668 [INFO] Starting iteration page_num=1 max_pages=10 last_page=False
+2023-07-16 15:13:07,911 [INFO] Starting iteration page_num=2 max_pages=10 last_page=False
+2023-07-16 15:13:10,027 [INFO] Starting iteration page_num=3 max_pages=10 last_page=False
+2023-07-16 15:13:12,162 [INFO] Starting iteration page_num=4 max_pages=10 last_page=False
+2023-07-16 15:13:14,263 [INFO] Starting iteration page_num=5 max_pages=10 last_page=False
+2023-07-16 15:13:16,340 [INFO] Starting iteration page_num=6 max_pages=10 last_page=False
+2023-07-16 15:13:18,554 [INFO] Starting iteration page_num=7 max_pages=10 last_page=False
+2023-07-16 15:13:20,808 [INFO] Starting iteration page_num=8 max_pages=10 last_page=False
+2023-07-16 15:13:57,956 [INFO] Starting iteration page_num=9 max_pages=10 last_page=False
+2023-07-16 15:14:00,191 [INFO] Ending fetch
+2023-07-16 15:14:00,206 [INFO]      DEALDATE         DEALDATETIME           FULLADRESS DISPLAYADRESS  ... parcel lot    price  deal_time
+0  16.04.2023  2023-04-16T00:00:00   ספיר 20, כוכב יאיר       ספיר 20  ...     47  10  3600000 2023-04-16
+1  21.03.2023  2023-03-21T00:00:00    גלגל 1, כוכב יאיר        גלגל 1  ...     16   5  3960000 2023-03-21
+2  15.03.2023  2023-03-15T00:00:00  אנקור 16, כוכב יאיר      אנקור 16  ...    101   1  4100000 2023-03-15
+
+[3 rows x 25 columns]
+2023-07-16 15:53:04,925 [INFO] Starting fetch
+2023-07-16 15:53:23,310 [INFO] Starting fetch
+2023-07-16 15:53:23,310 [INFO] Starting iteration object_id=65210992 3 page_num=0 max_pages=10
+2023-07-16 15:55:14,993 [INFO] Starting fetch
+2023-07-16 15:55:14,993 [INFO] Starting iteration object_id=65210992 object_type=<SearchLevel.NEIGHBORHOOD: 3> page_num=0 max_pages=10
+2023-07-16 15:55:51,449 [INFO] Starting iteration object_id=65210992 object_type=<SearchLevel.NEIGHBORHOOD: 3> page_num=1 max_pages=10
+2023-07-16 15:58:15,969 [INFO] Starting iteration object_id=65210992 object_type=<SearchLevel.NEIGHBORHOOD: 3> page_num=2 max_pages=10
+2023-07-16 15:59:17,937 [INFO] Starting iteration object_id=65210992 object_type=<SearchLevel.NEIGHBORHOOD: 3> page_num=3 max_pages=10
+2023-07-16 16:01:58,030 [INFO] Starting iteration object_id=65210992 object_type=<SearchLevel.NEIGHBORHOOD: 3> page_num=4 max_pages=10
+2023-07-16 16:05:12,589 [INFO] Starting iteration object_id=65210992 object_type=<SearchLevel.NEIGHBORHOOD: 3> page_num=5 max_pages=10
+2023-07-16 16:07:17,799 [INFO] Starting iteration object_id=65210992 object_type=<SearchLevel.NEIGHBORHOOD: 3> page_num=6 max_pages=10
+2023-07-16 16:07:43,129 [INFO] Starting iteration object_id=65210992 object_type=<SearchLevel.NEIGHBORHOOD: 3> page_num=7 max_pages=10
+2023-07-16 16:08:46,331 [INFO] Starting iteration object_id=65210992 object_type=<SearchLevel.NEIGHBORHOOD: 3> page_num=8 max_pages=10
+2023-07-16 16:17:17,465 [INFO] Starting iteration object_id=65210992 object_type=<SearchLevel.NEIGHBORHOOD: 3> page_num=9 max_pages=10
+2023-07-16 16:18:59,757 [INFO] Ending fetch
+2023-07-16 16:18:59,772 [INFO]      DEALDATE         DEALDATETIME           FULLADRESS DISPLAYADRESS        GUSH DEALNATUREDESCRIPTION ASSETROOMNUM  ... TREND_IS_NEGATIVE     TREND_FORMAT block parcel lot    price  deal_time
+0  16.04.2023  2023-04-16T00:00:00   ספיר 20, כוכב יאיר       ספיר 20  7363-47-10       קוטג' דו משפחתי            4  ...             False   94% ב 5.7 שנים  7363     47  10  3600000 2023-04-16
+1  21.03.2023  2023-03-21T00:00:00    גלגל 1, כוכב יאיר        גלגל 1   7364-16-5       קוטג' דו משפחתי          4.5  ...             False  129% ב 8.2 שנים  7364     16   5  3960000 2023-03-21
+2  15.03.2023  2023-03-15T00:00:00  אנקור 16, כוכב יאיר      אנקור 16  7370-101-1       קוטג' דו משפחתי            6  ...             False   74% ב 5.5 שנים  7370    101   1  4100000 2023-03-15
+
+[3 rows x 25 columns]
