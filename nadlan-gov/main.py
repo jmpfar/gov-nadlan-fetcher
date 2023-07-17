@@ -43,7 +43,8 @@ async def get_deals(params, page=0):
         async with session.post(api_url + "Main/GetAssestAndDeals", json=params) as response:
             data = await response.json()
             return data
-        
+
+
 async def get_deals_by_object_id(object_id, object_type: SearchLevel, page=0):
     return await get_deals({"ObjectID": str(object_id),
                                        # sic.
